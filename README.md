@@ -1,1 +1,7 @@
-📁 Number and BMI calculator -> It's a calculator where the calculation has been done on the server using the localhost. You need to run nodemon and npm commands in the console to use the calculator.
+In your cmd, you need to install the dependencies. To do that check the dependencies in the package.json file, and install it.
+Syntax: (In cmd go to the correct directory the write) npm install "dependencies name" (you can install multiple dependencies at once by giving space between them) npm install "dependencies name" "dependencies name" ....
+Ex: npm install body-parser express
+
+To run the app.js file, in the cmd run nodemon app.js command
+
+📁 Number and BMI calculator -> It's a calculator where the calculation has been done on the server using the localhost. 
