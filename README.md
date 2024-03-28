@@ -4,4 +4,6 @@ Ex: npm install body-parser express
 
 To run the app.js file, in the cmd run nodemon app.js command
 
+📁 Blog Website -> It's a simple blog website where you can publish your blogs.
 📁 Number and BMI calculator -> It's a calculator where the calculation has been done on the server using the localhost. 
+📁 To-do list app -> In the to-do list app mention your daily works.
